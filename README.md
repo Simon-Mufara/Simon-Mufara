@@ -74,4 +74,5 @@ Predictive modelling with deployment-ready interface for clinical data.
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/simon-mufara/Email: simon.mufara1@gmail.com
+LinkedIn: https://www.linkedin.com/in/simon-mufara/ 
+Email: simon.mufara1@gmail.com
