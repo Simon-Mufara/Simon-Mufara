@@ -20,7 +20,7 @@ Building AI systems for healthcare, drug response prediction, and African genomi
 
 ## About Me
 
-I am a Computational Health Informatics postgraduate at the University of Cape Town, with a background in Health Systems Science and global public health.
+I am a Computational Health Informatics Masters Candidate at the University of Cape Town, with a background in Health Systems Science and global public health.
 
 My work focuses on:
 
