@@ -1,4 +1,7 @@
 # Simon Mufara
+![Simon GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon-Mufara&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Mufara&layout=compact&theme=tokyonight)
 
 AI & Bioinformatics Engineer | Computational Health Informatics (UCT)  
 Building AI systems for healthcare, drug response prediction, and African genomic innovation.
