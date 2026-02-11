@@ -1,0 +1,64 @@
+# Simon Mufara
+
+AI & Bioinformatics Engineer | Computational Health Informatics (UCT)  
+Building AI systems for healthcare, drug response prediction, and African genomic innovation.
+
+---
+
+## About Me
+
+I am a Computational Health Informatics postgraduate at the University of Cape Town, with a background in Health Systems Science and global public health.
+
+My work focuses on:
+
+- Drug response prediction using gene expression data
+- Multi-omics machine learning models
+- Healthcare AI deployment
+- African-centric biomedical data innovation
+
+I am passionate about building clinically interpretable AI systems that improve healthcare decision-making across Africa.
+
+---
+
+## Current Focus
+
+- Drug Response Prediction (GDSC-based ML models)
+- Transformer models for multi-omics integration
+- Cloud-based ML deployment (Azure / AWS)
+- Healthcare AI dashboard development
+
+---
+
+## Tech Stack
+
+Python | PyTorch | Scikit-learn | XGBoost  
+Scanpy | Pandas | NumPy | Matplotlib  
+Azure ML | AWS | Streamlit  
+Git | Linux | Conda  
+
+---
+
+## Featured Projects
+
+### Drug Response Prediction (In Progress)
+Machine learning model predicting drug sensitivity from gene expression data.  
+Includes feature importance analysis and biological interpretation.
+
+### Healthcare AI Dashboard (Coming Soon)
+Predictive modelling with deployment-ready interface for clinical data.
+
+---
+
+## Research Interests
+
+- AI in Oncology
+- African Genomics
+- Multi-omics Integration
+- Interpretable Machine Learning
+- Precision Medicine
+
+---
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/simon-mufara/Email: [Your academic email]
