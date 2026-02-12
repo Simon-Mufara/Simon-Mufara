@@ -7,11 +7,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Simon-Mufara?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Simon-Mufara?style=social)
 
-<!-- Top Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Mufara&layout=compact)](https://github.com/Simon-Mufara)
-
-<!-- GitHub Stats -->
-![Simon-Mufara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simon-Mufara&show_icons=true&theme=default)
 
 AI & Bioinformatics Engineer | Computational Health Informatics (UCT)  
 Building AI systems for healthcare, drug response prediction, and African genomic innovation.
