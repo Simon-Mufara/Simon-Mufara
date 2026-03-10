@@ -1,6 +1,6 @@
-# Hi, I'm Azwinndini Simon Mufara 👋
+# Hi, I'm Azwinndini Simon Mufara 
 
-📍 **Cape Town, South Africa** | 🧬 **MSc Computational Health Informatics Candidate @ UCT** | ⚙️ **Bioinformatics & AI Builder**
+📍 **Cape Town, South Africa** |  **MSc Computational Health Informatics Candidate @ UCT** |  **Bioinformatics & AI Builder**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -51,7 +51,7 @@ Right now, I am focused on:
 
 ## Featured Projects
 
-### 🧬 [nf-bacteria-variant-calling](https://github.com/Simon-Mufara/nf-bacteria-variant-calling)
+###  [nf-bacteria-variant-calling](https://github.com/Simon-Mufara/nf-bacteria-variant-calling)
 
 A reproducible **Nextflow DSL2** pipeline for bacterial genomic variant calling.
 
@@ -68,7 +68,7 @@ A reproducible **Nextflow DSL2** pipeline for bacterial genomic variant calling.
 
 ---
 
-### 🧪 [nf-variant_calling_workflow](https://github.com/Simon-Mufara/nf-variant_calling_workflow)
+### [nf-variant_calling_workflow](https://github.com/Simon-Mufara/nf-variant_calling_workflow)
 
 An end-to-end variant calling workflow for reproducible sequencing analysis.
 
@@ -83,7 +83,7 @@ An end-to-end variant calling workflow for reproducible sequencing analysis.
 
 ---
 
-### 🧰 [qc-and-trim-container](https://github.com/Simon-Mufara/qc-and-trim-container)
+### [qc-and-trim-container](https://github.com/Simon-Mufara/qc-and-trim-container)
 
 A containerized bioinformatics environment for sequencing QC and trimming.
 
@@ -109,7 +109,7 @@ singularity pull docker://simonmufara/qc_and_trim:latest
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -155,7 +155,7 @@ singularity pull docker://simonmufara/qc_and_trim:latest
 
 ---
 
-## 🧠 Research Interests
+##  Research Interests
 
 * Machine Learning for Drug Response Prediction
 * Multi-Omics Data Integration
@@ -166,11 +166,10 @@ singularity pull docker://simonmufara/qc_and_trim:latest
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Simon-Mufara&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simon-Mufara&layout=compact" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Simon-Mufara&theme=dark" />
 </p>
 
 <p align="center">
@@ -179,27 +178,19 @@ singularity pull docker://simonmufara/qc_and_trim:latest
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Simon-Mufara/Simon-Mufara/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## Background
 
-* 🎓 **MSc Computational Health Informatics** - University of Cape Town
-* 🎓 **BSc Honours Bioinformatics** - University of Cape Town
-* 🎓 **Bachelor of Health System Sciences** - University of the Witwatersrand
+ **MSc Computational Health Informatics** - University of Cape Town
+ **BSc Honours Bioinformatics** - University of Cape Town
+ **Bachelor of Health System Sciences** - University of the Witwatersrand
 
 ---
 
 ## Recognition
 
-* 🏆 **Top 10 Most Employable Graduate** - GradStar South Africa (2024)
-* 👨‍🏫 **EH!Woza Science Facilitator**
-* 📈 **Power BI Essential Training** - LinkedIn Learning
+**Top 10 Most Employable Graduate** - GradStar South Africa (2024)
+**EH!Woza Science Facilitator**
+**Power BI Essential Training** - LinkedIn Learning
 
 ---
 
@@ -214,8 +205,3 @@ singularity pull docker://simonmufara/qc_and_trim:latest
 ## Philosophy
 
 > Build with purpose. Document clearly. Make research reproducible. Keep shipping.
-
-````
-
-
-tegrated** so you can paste one last version and stop editing.
