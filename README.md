@@ -181,7 +181,9 @@ singularity pull docker://simonmufara/qc_and_trim:latest
 ## Background
 
  **MSc Computational Health Informatics** - University of Cape Town
+ 
  **BSc Honours Bioinformatics** - University of Cape Town
+ 
  **Bachelor of Health System Sciences** - University of the Witwatersrand
 
 ---
@@ -189,7 +191,9 @@ singularity pull docker://simonmufara/qc_and_trim:latest
 ## Recognition
 
 **Top 10 Most Employable Graduate** - GradStar South Africa (2024)
+
 **EH!Woza Science Facilitator**
+
 **Power BI Essential Training** - LinkedIn Learning
 
 ---
