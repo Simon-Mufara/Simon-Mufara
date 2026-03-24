@@ -24,7 +24,7 @@
 
 ## About Me
 
-I am a computational health and bioinformatics researcher with training in **bioinformatics, health systems science, and machine learning for biomedical data**.
+I am a bioinformatics dashboards developer and bioinformatics researcher with training in **bioinformatics, health systems science, and machine learning for biomedical data**.
 
 My work focuses on:
 
