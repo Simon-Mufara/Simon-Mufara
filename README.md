@@ -56,7 +56,7 @@ Right now, I am focused on:
 A reproducible **Nextflow DSL2** pipeline for bacterial genomic variant calling.
 
 **Highlights**
-- FASTQ quality control
+- FASTq quality control
 - genome alignment
 - BAM processing
 - variant detection
