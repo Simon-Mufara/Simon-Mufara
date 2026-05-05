@@ -172,7 +172,7 @@ singularity pull docker://simonmufara/qc_and_trim:latest
 
 **DSI-NRF Freestanding Scholarship** — National Research Foundation, South Africa
 
-**H3ABioNet** — Pan-African Bioinformatics Network (active member)
+**H3ABioNet** — Pan-African Bioinformatics Network (platform development)
 
 **EH!Woza Science Facilitator**
 
