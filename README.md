@@ -1,6 +1,6 @@
 # Azwinndini Simon Mufara
 
-📍 Bloemfontein / Cape Town, South Africa &nbsp;|&nbsp; MSc Computational Health Informatics · University of Cape Town &nbsp;|&nbsp; Bioinformatics Researcher & AI Developer
+📍 Cape Town, South Africa &nbsp;|&nbsp; MSc Computational Health Informatics · University of Cape Town &nbsp;|&nbsp; Bioinformatics Researcher & AI Developer
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--4430--2380-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4430-2380)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Azwinndini%20Simon%20Mufara-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-mufara/)
@@ -29,7 +29,6 @@
 
 I am a bioinformatics researcher and software developer currently completing an **MSc in Computational Health Informatics** at the University of Cape Town (Division of Computational Biology, CBIO), funded by a **DSI-NRF Freestanding Scholarship**. My MSc thesis centres on transformer-based multi-omics integration for drug response prediction in African breast cancer cohorts.
 
-Alongside my studies, I am undertaking a one-year internship at the **UFS Next Generation Sequencing (NGS) Unit** in Bloemfontein, working within the H3ABioNet pan-African bioinformatics network.
 
 My work spans:
 
@@ -171,8 +170,6 @@ singularity pull docker://simonmufara/qc_and_trim:latest
 **Top 10 Most Employable Graduate** — GradStar South Africa (2024)
 
 **DSI-NRF Freestanding Scholarship** — National Research Foundation, South Africa
-
-**H3ABioNet** — Pan-African Bioinformatics Network (platform development)
 
 **EH!Woza Science Facilitator**
 
